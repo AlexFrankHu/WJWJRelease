@@ -19,4 +19,6 @@ HD-AI 数字孪生体语义化 AI 平台的 Windows 发布包，直接从本仓�
 1. 从 Releases 下载 `HD-AI-Setup-x64.exe.part00` 到 `part04` 共 5 个文件，以及 `merge-setup.bat`，放进同一个文件夹。
 2. 双击 `merge-setup.bat`，它会合并出 `HD-AI-Setup-x64.exe` 并校验 SHA256，显示“校验通过”后双击安装。
 
+免安装版同样有分卷：下载 `HD-AI-windows-x64.zip.part00` 到 `part06` 共 7 个文件和 `merge-zip.bat`，放进同一个文件夹后双击 `merge-zip.bat`，合并出 zip 再解压，双击 `HD-AI.exe` 启动。
+
 浏览器下载失败时，也可以在下载列表（Ctrl+J）里点“继续/恢复”，从断点接着下。
